@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{teaching.html}
+
+== Open projects
+There is no open project available at the moment. However, if you have any research ideas regarding system identification, learning-based / data-driven control, and model predictive control, I would be happy to discuss and potentially supervise.
+
+== Teaching assistants
+- [https://people.ee.ethz.ch/~sysid/course/index.html System Identification] (HS 2019 - 2022, head TA from 2020)
+- [https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=170664&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en Robust Control and Convex Optimisation] (FS 2023)
+- [http://people.ee.ethz.ch/~ifa_cs2/ Control Systems II] (FS 2020 - 2022)
+
+== Students projects
+- *Koopman-operator-based data-driven predictive control for nonlinear systems*\n
+2023.5 - 2023.9, Semester project with Yanze Liu (visiting student from University of Wisconsin–Madison)
+- *Sparse learning algorithms in linear system identification*\n
+2023.2 - 2023.9, Master project with David Laseca Pérez, co-supervised with Amber Srivastava
+- *Closed-loop identification of sparse networked systems*\n
+2023.2 - 2023.9, Master project with Ran Chen, co-supervised with Amber Srivastava
+- *Transversal hyperplane selection in identification of local limit cycle dynamics*\n
+2022.7 - 2022.10, Semester project with Kailai Yan
+- *Constraint satisfaction and physical consistency in data-driven control for energy flexible buildings*\n
+2022.3 - 2022.9, Master project with Andrea Gattiglio, co-supervised with [https://www.empa.ch/web/caha Hanmin Cai] from Empa
+- *Sparse learning in system identification: debiasing and infinite-dimensional algorithms*\n
+2021.4 - 2021.11, Master project with [https://www.tue.nl/en/research/researchers/tolga-akan Mehmet Tolga Akan], co-supervised with Andrea Iannelli & Mohammad Khosravi, [https://doi.org/10.3929/ethz-b-000526590 report]
+- *Identification of limit cycle dynamics with linear periodic models for airborne wind energy applications*\n
+2021.3 - 2021.10, Master project with [https://www.linkedin.com/in/defne-ege-ozan-199802a1 Defne Ege Ozan], co-supervised with Andrea Iannelli, [https://doi.org/10.3929/ethz-b-000522776 report]
+- *Modeling and identification of bifurcation regimes in thermoacoustic instabilities*\n
+2020.3 - 2020.6, Semester project with [https://www.linkedin.com/in/defne-ege-ozan-199802a1 Defne Ege Ozan], co-supervised with Andrea Iannelli 

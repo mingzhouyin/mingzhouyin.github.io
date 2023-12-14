@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{index.html}
+\n
+~~~
+{}{img_left}{./pics/profile_pic_web.jpg}{profile pic}{200px}{250px}{}
+= Mingzhou YIN 殷明周 \n
+
+==== Doctoral Researcher,\n [https://control.ee.ethz.ch/ Automatic Control Laboratory],\n [https://ee.ethz.ch/ Dept. Information Technology & Electrical Engineering],\n [https://ethz.ch/en.html ETH Zürich]
+*Email:* [mailto:myin@control.ee.ethz.ch myin@control.ee.ethz.ch]\n
+\n
+ETL K 14.1, Physikstrasse 3\n
+8092 Zürich, Switzerland
+~~~
+
+== Biography
+Mingzhou Yin is a doctoral student supervised by [http://people.ee.ethz.ch/~rsmith/ Prof. Roy S. Smith] in the Automatic Control Laboratory at ETH Zurich since February 2019. He has been supported by the project "Modeling, Identification and Control of Periodic Systems in Energy Applications" from the Swiss National Science Foundation. He received his MSc degree /cum laude/ in control & simulation at the Faculty of Aerospace Engineering, Delft University of Technology, the Netherlands in 2018. His master's thesis research is on envelope-​protected non-​linear control of over-​actuated aircraft in collaboration with Lockheed Martin. He received the joint bachelor’s degree in Mechanical Engineering at Shanghai Jiao Tong University, China and the University of Hong Kong, China with first-​class honours in 2016. He was the recipient of the IEEE Control Systems Society Swiss Chapter Young Author Best Journal Paper Award and the Systems Identification and Adaptive Control Technical Committee Outstanding Student Paper Prize in 2023.
+
+[files/CV_Mingzhou_Yin.pdf CV PDF]
+
+== Research area
+His research interests include data-​driven modeling, simulation & control, sparse learning theory, system identification with subspace and regularized methods, model predictive control, and periodic system theory.
+
+== Updates
+- *December 2023*: A [https://arxiv.org/abs/2312.02758 preprint] where we discussed the issues of regularization, estimation, and constraint tightening in stochastic data-driven predictive control.
+- *November 2023*: A [https://arxiv.org/abs/2311.09019 preprint] where we proposed a new closed-loop identification framework that is dual to the input-output parameterization for control synthesis.
+- *October 2023*: [https://doi.org/10.1016/j.apenergy.2023.122101 Our work] on application of stochastic indirect data-driven predictive control to building control has been published in /Applied Energy/ with gold open access.
+- *September 2023*: I gave a contributed talk at [https://www.kth.se/ernsi2023 ERNSI 2023] on [files/ERNSI23_presentation_MIngzhou_Yin.pdf error bounds for kernel-based system identifcation].
+- *September 2023*: I was invited for a talk at the [https://www.irt.uni-hannover.de/en/ Institute of Automatic Control (IRT), Leibniz University Hannover] on [files/research_overview_DDPC.pdf stochastic data-driven control].
+- *July 2023*: I am deeply honored to share the IEEE Control Systems Society Systems Identification and Adaptive Control Technical Committee Outstanding Student Paper Prize 2023 with my coauthor Defne Ege Ozan.
+- *July 2023*: Our papers on [https://arxiv.org/abs/2304.02379 closed-loop identification] and [https://doi.org/10.1109/LCSYS.2023.3287305 kernel-based system identification] have been accepted for presentation at the 2023 62nd IEEE Conference on Decision and Control (CDC).
+- *June 2023*: [https://doi.org/10.1109/LCSYS.2023.3287305 Our paper] on reliable error bounds for kernel-based system identification with unknown hyperparameters has been accepted for publication in /IEEE Control Systems Letters/.
+- *June 2023*: I am deeply honored to receive the [https://ieee.ch/chapters/control-systems-society IEEE Control Systems Society Swiss Chapter] Young Author Best Journal Paper Award 2023.
+- *March 2023*: A [https://arxiv.org/abs/2304.02379 preprint] where we proposed a new closed-loop identification framework that is dual to the system level parameterization for control synthesis.
+- *March 2023*: An [files/Coffee_talk_2023_Mingzhou_Yin.pdf IfA coffee talk] where I discussed a few lesser-known aspects of $l_1$-norm regularization.
+
+== Extra
+He takes photos. [https://www.rabibara.com Gallery] 

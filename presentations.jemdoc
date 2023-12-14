@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{presentations.html}
+
+== Presentations
+
+- Error bounds for kernel-based system identification ([files/ERNSI23_presentation_MIngzhou_Yin.pdf ERNSI], Sept 2023; [files/CDC23_presentation.pdf CDC], Dec 2023)
+- Research overview on data-driven predictive control ([files/research_overview_DDPC.pdf slides], Sept 2023)
+- Notes on $l_1$-norm regularization ([files/Coffee_talk_2023_Mingzhou_Yin.pdf IfA coffee talk], Mar 2023)
+- Sparse learning in linear system identification ([files/ERNSI22_presentation_Yin.pdf ERNSI], Sept 2022; [files/CDC2022_atomic_norm_slide.pdf CDC], Dec 2022)
+- Confidence region of data-driven predictors ([files/ECC22_mse_data_driven.pdf ECC], July 2022)
+- Kernel-based identification of power kites ([files/AWEC21_presentation_Yin.pdf AWEC], Jun 2022, [files/AWEC05_Yin.pdf abstract]; [files/CDC2022_LCO_Identification_slides.pdf CDC], Dec 2022)
+- Applications of signal matrix models ([files/ERNSI2021_signal_matrix_model.pdf ERNSI], Sept 2021)
+- Low-rank Hankel matrix denoising ([files/SYSID21_Hankel_matrix_denoising.pdf SYSID], Jul 2021)
+- Signal matrix model in data-driven predictive control ([files/L4DC21_signal_matrix_model.pdf L4DC], Jun 2021)
+- Periodic subspace identification ([files/CDC20_1738_periodic_subspace.pdf CDC], Dec 2020)
+- MLE in data-driven modeling and control ([files/IfA_Coffee_talk_Yin_2020.pdf IfA coffee talk], Oct 2020)
+- Grouped atomic norm regularization ([files/IFAC20_0253_grouped_atomic_norm.pdf IFAC World Congress], Jul 2020)
